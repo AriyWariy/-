@@ -10,11 +10,11 @@ skinparam usecase {
 	BorderColor Black
 }
 left to right direction
-actor P0 as "Человек"
-actor M0 as "Конечности"
-actor P as "Кто умеет"
-actor M as "Руками"
-usecase A as "Сборка"
+actor P0 as "Р§РµР»РѕРІРµРє"
+actor M0 as "РљРѕРЅРµС‡РЅРѕСЃС‚Рё"
+actor P as "РљС‚Рѕ СѓРјРµРµС‚"
+actor M as "Р СѓРєР°РјРё"
+usecase A as "РЎР±РѕСЂРєР°"
 P -- (A)
 (A) -- M
 P0 <|-- P
