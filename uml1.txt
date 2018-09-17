@@ -4,9 +4,9 @@ skinparam class {
 	ArrowColor Black
 	BorderColor Black
 }
-class "Кто умеет" as P {
- Руками
-Оригами Сборка (Бумага, В свободное время)
+class "РљС‚Рѕ СѓРјРµРµС‚" as P {
+ Р СѓРєР°РјРё
+РћСЂРёРіР°РјРё РЎР±РѕСЂРєР° (Р‘СѓРјР°РіР°, Р’ СЃРІРѕР±РѕРґРЅРѕРµ РІСЂРµРјСЏ)
 }
 hide circle
 @enduml
