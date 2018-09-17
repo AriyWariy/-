@@ -1,7 +1,7 @@
 # Отчет о лабораторных работах
 ## Cтудент группы ИДБ-15-14 Белов Д.Д.
 ## Лабораторная 1
-[Модель](https://github.com/AriyWariy/AriyWariy.github.io/Ramusmodels/model.PNG)  
+[Модель](https://github.com/AriyWariy/AriyWariy.github.io/blob/master/Ramus%20models/model.PNG)  
 Диаграмма классов
 Текст диаграммы
 Диаграмма прецендентов
